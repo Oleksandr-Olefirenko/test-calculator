@@ -1,6 +1,6 @@
 # calculator
 
-> Test project for CMK company
+> Test project for SMK company
 
 ## Build Setup
 
